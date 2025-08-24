@@ -23,6 +23,8 @@
 
 （レベル：初級〜中級）
 
+### 2. 学習目標
+
 ## Table of contents
 
 - Chapter 01: [ViteによるReactの導入](#1-viteによるreactの導入) 
