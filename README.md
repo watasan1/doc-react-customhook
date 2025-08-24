@@ -12,7 +12,7 @@
 ## Table of contents
 
 - Chapter 01: [README](#readme)  
-- Chapter 02: ViteによるReactの導入  
+- Chapter 02: [ViteによるReactの導入](#ViteによるReactの導入)  
 - Chapter 03: Tailwind CSSの導入  
 - Chapter 04: shadcn/ui の導入  
 - Chapter 05: 初期画面の作成  
@@ -23,3 +23,10 @@
 - Chapter 10: Finish
 
 ## readme
+
+---
+
+## ViteによるReactの導入
+
+---
+
