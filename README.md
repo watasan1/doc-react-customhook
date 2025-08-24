@@ -26,11 +26,11 @@
 
 ---
 
-## 2. viteによるreactの導入
+## 2. Viteによるreactの導入
 
 ---
 
-## 3. tailwind cssの導入
+## 3. Tailwind cssの導入
 
 ---
 
