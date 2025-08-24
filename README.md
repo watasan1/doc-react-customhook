@@ -11,30 +11,30 @@
 
 ## Table of contents
 
-- Chapter 01: [README](#1-readme)  
-- Chapter 02: [ViteによるReactの導入](#2.-ViteによるReactの導入)  
-- Chapter 03: [Tailwind CSSの導入](#3-tailwind-CSSの導入)  
-- Chapter 04: [shadcn/ui の導入](#4-shadcn-uiの導入)  
+- Chapter 01: [README](#1-readme)   
+- Chapter 02: [ViteによるReactの導入](#2-viteによるreactの導入)  
+- Chapter 03: [Tailwind CSSの導入](#3-tailwind-cssの導入) 
+- Chapter 04: [shadcn/ui の導入](#4-shadcnui-の導入)  
 - Chapter 05: [初期画面の作成](#5-初期画面の作成)  
 - Chapter 06: [チャレンジ詳細画面の作成](#6-チャレンジ詳細画面の作成)  
 - Chapter 07: [コード検証ロジックの追加](#7-コード検証ロジックの追加)  
-- Chapter 08: [GitHub Pagesへのデプロイ](#8-github-pagesへのデプロイ)  
-- Chapter 09: [解答例](#9-解答例)  
+- Chapter 08: [GitHub Pagesへのデプロイ](#8-github-pagesへのデプロイ)
+- Chapter 09: [解答例](#9-解答例) 
 - Chapter 10: [おわりに](#10-おわりに)
 
 ## 1. readme
 
 ---
 
-## 2. ViteによるReactの導入
+## 2. viteによるreactの導入
 
 ---
 
-## 3. Tailwind CSSの導入
+## 3. tailwind cssの導入
 
 ---
 
-## 4. shadcn-uiの導入
+## 4. shadcnui の導入
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 8. GitHub Pagesへのデプロイ
+## 8. github pagesへのデプロイ
 
 ---
 
@@ -59,6 +59,3 @@
 ---
 
 ## 10. おわりに
-
-
-
