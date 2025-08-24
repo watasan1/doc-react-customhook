@@ -26,7 +26,7 @@
 
 ---
 
-## ViteによるReactの導入
+## viteによるReactの導入
 
 ---
 
