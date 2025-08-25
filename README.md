@@ -79,7 +79,7 @@
 
 ---
 
-## 2. Tailwind cssの導入
+## 2. Tailwind CSSの導入
 
 ---
 
