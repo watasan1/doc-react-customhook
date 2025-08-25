@@ -69,14 +69,14 @@
 ## 5. 実装ステップ
 
 - Chapter 01: [ViteによるReactの導入](#chapter-1-viteによるreactの導入) 
-- Chapter 02: [Tailwind CSSの導入](#2-tailwind-cssの導入)   
-- Chapter 03: [shadcn/ui の導入](#3-shadcnui-の導入)
-- Chapter 04: [初期画面の作成](#4-初期画面の作成)  
-- Chapter 05: [チャレンジ詳細画面の作成](#5-チャレンジ詳細画面の作成)  
-- Chapter 06: [コード検証ロジックの追加](#6-コード検証ロジックの追加)  
-- Chapter 07: [GitHub Pagesへのデプロイ](#7-github-pagesへのデプロイ)  
-- Chapter 08: [解答例](#8-解答例)
-- Chapter 09: [おわりに](#9-おわりに)
+- Chapter 02: [Tailwind CSSの導入](#chapter-2-tailwind-cssの導入)   
+- Chapter 03: [shadcn/ui の導入](#chapter-3-shadcnui-の導入)
+- Chapter 04: [初期画面の作成](#chapter-4-初期画面の作成)  
+- Chapter 05: [チャレンジ詳細画面の作成](#chapter-5-チャレンジ詳細画面の作成)  
+- Chapter 06: [コード検証ロジックの追加](#chapter-6-コード検証ロジックの追加)  
+- Chapter 07: [GitHub Pagesへのデプロイ](#chapter-7-github-pagesへのデプロイ)  
+- Chapter 08: [解答例](#chapter-8-解答例)
+- Chapter 09: [おわりに](#chapter-9-おわりに)
 
 ---
 
@@ -84,32 +84,32 @@
 
 ---
 
-## 2. Tailwind CSSの導入
+## Chapter 2. Tailwind CSSの導入
 
 ---
 
-## 3. shadcn/ui の導入
+## Chapter 3. shadcn/ui の導入
 
 ---
 
-## 4. 初期画面の作成
+## Chapter 4. 初期画面の作成
 
 ---
 
-## 5. チャレンジ詳細画面の作成
+## Chapter 5. チャレンジ詳細画面の作成
 
 ---
 
-## 6. コード検証ロジックの追加
+## Chapter 6. コード検証ロジックの追加
 
 ---
 
-## 7. GitHub Pagesへのデプロイ
+## Chapter 7. GitHub Pagesへのデプロイ
 
 ---
 
-## 8. 解答例
+## Chapter 8. 解答例
 
 ---
 
-## 9. おわりに
+## Chapter 9. おわりに
