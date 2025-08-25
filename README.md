@@ -68,7 +68,7 @@
 
 ## 5. 実装ステップ
 
-- Chapter 01: [ViteによるReactの導入](#1-viteによるreactの導入) 
+- Chapter 01: [ViteによるReactの導入](#chapter-1-viteによるreactの導入) 
 - Chapter 02: [Tailwind CSSの導入](#2-tailwind-cssの導入)   
 - Chapter 03: [shadcn/ui の導入](#3-shadcnui-の導入)
 - Chapter 04: [初期画面の作成](#4-初期画面の作成)  
@@ -80,7 +80,7 @@
 
 ---
 
-## 1. ViteによるReactの導入
+## Chapter 1. ViteによるReactの導入
 
 ---
 
