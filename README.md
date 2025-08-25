@@ -99,7 +99,7 @@
 
 ---
 
-## 7. github pagesへのデプロイ
+## 7. GitHub Pagesへのデプロイ
 
 ---
 
