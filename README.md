@@ -63,7 +63,7 @@
 
 ---
 
-## 実装ステップ
+## 5. 実装ステップ
 
 - Chapter 01: [ViteによるReactの導入](#1-viteによるreactの導入) 
 - Chapter 02: [Tailwind CSSの導入](#2-tailwind-cssの導入)   
