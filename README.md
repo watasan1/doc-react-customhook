@@ -126,6 +126,11 @@ v22.16.0
 
 自分の好きな場所にフォルダを作りましょう。ここでは例としてデスクトップに作ります。
 
+```sh
+mkdir react-codechallengehub-app && cd react-codechallengehub-app
+```
+
+
 
 
 ### 3. gitでプロジェクトを管理する
